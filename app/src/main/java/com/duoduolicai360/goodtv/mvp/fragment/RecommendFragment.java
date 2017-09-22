@@ -251,11 +251,4 @@ public class RecommendFragment extends BaseFragment<IRecommendView, RecommendPre
 
     }
 
-
-
-
-
-
-
-
 }
